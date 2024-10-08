@@ -1,2 +1,2 @@
 # cemantix-solver
-A solver for cemantix
+A solver for [cemantix](https://cemantix.certitudes.org/). 
